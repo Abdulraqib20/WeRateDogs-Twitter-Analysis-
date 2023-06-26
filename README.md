@@ -1,4 +1,4 @@
-# Wrangling and Analyzing Data
+# WeRateDogs Twitter Analysis 
 ## Project steps overview </br>
 Introduction </br>
 Gathering Data </br>
